@@ -1,7 +1,6 @@
 using fluid.gql.Services;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.DependencyInjection.Extensions;
-
 namespace fluid.gql.Extensions
 {
     public static class LiquidServiceCollectionExtensions
